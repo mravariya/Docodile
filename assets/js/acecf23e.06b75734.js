@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocodile_temp=self.webpackChunkdocodile_temp||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/Docodile/blog","blogTitle":"Blog","authorsListPath":"/Docodile/blog/authors"}')}}]);
