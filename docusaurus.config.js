@@ -11,7 +11,8 @@ const config = {
 
   organizationName: 'mravariya',
   projectName: 'Docodile',
-  
+  deploymentBranch: 'gh-pages',
+
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
